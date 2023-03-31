@@ -10,8 +10,9 @@ We are integrating existing tools and codes that we have developed into Q-POP, e
 
 ## Existing individual tools
 
-1. Q-POP-Thermo
-2. BoltzTraP2Y: Atomic to Mesoscale Bridging
-3. Q-POP-Diffraction: A Software Module to Computer Diffration Patterns of Phase-field Simulated Microstructures
-4. PyVecAnalysis: A Software Module for Automated Identification of Topological Structures
-5. SHAARP: Analytical and Numerical Modeling of Optical Second Harmonic Generation in Anisotropic Crystals
+1. Q-POP-HTP: high-throughput simulation jobs generator
+1. Q-POP-Thermo: to calculate the equilibrium temperature-strain phase
+2. Q-POP-BoltzTraP2Y: a modern implementation of the smoothed Fourier interpolation algorithm for electronic bands
+3. Q-POP-Diffraction: to compute diffration patterns of phase-field simulated microstructures
+4. Q-POP-PyVecAnalysis: to automate identification of topological structures
+5. Q-POP-#SHAARP: analytical and numerical modeling of optical second harmonic generation in anisotropic crystals
