@@ -8,7 +8,7 @@ A primary objective of this project is to create a software package (Q-POP, Quan
 
 We are integrating existing tools and codes that we have developed into Q-POP, ensuring a seamless and user-friendly experience for all users.
 
-## Existing individual tools
+## Pre and post simulation tools
 
 1. Q-POP-HTP: high-throughput simulation jobs generator
 1. Q-POP-Thermo: to calculate the equilibrium temperature-strain phase
