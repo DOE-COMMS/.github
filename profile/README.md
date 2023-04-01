@@ -1,4 +1,4 @@
-# Center for Mesoscale Computational Materials Science
+# Computational Mesoscale Materials Science
 
 This project is supported as part of the [Computational Materials Sciences Program](https://www.greencarcongress.com/2019/06/20190613-doe.html) funded by the US Department of Energy, Office of Science, Basic Energy Sciences, under Award Number DE-SC0020145 (DOE Program Manager: Matthias Graf, Matthias.Graf@science.doe.gov)
 
@@ -12,7 +12,7 @@ We are integrating existing tools and codes that we have developed into Q-POP, e
 
 1. Q-POP-HTP: high-throughput simulation jobs generator
 1. Q-POP-Thermo: to calculate the equilibrium temperature-strain phase
-2. Q-POP-BoltzTraP2Y: a modern implementation of the smoothed Fourier interpolation algorithm for electronic bands
+2. Q-POP-BoltzTraP2Y: a high-throughput first-principles calculation software to provide thermodynamic and kinetic input data for phase-field simulations
 3. Q-POP-Diffraction: to compute diffration patterns of phase-field simulated microstructures
 4. Q-POP-PyVecAnalysis: to automate identification of topological structures
-5. Q-POP-#SHAARP: analytical and numerical modeling of optical second harmonic generation in anisotropic crystals
+5. Q-POP-SHAARP: analytical and numerical modeling of optical second harmonic generation in anisotropic crystals
